@@ -13,6 +13,7 @@
 		B4AEDA312689D51C00D984AA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B4AEDA2F2689D51C00D984AA /* Main.storyboard */; };
 		B4AEDA332689D51F00D984AA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B4AEDA322689D51F00D984AA /* Assets.xcassets */; };
 		B4AEDA362689D51F00D984AA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B4AEDA342689D51F00D984AA /* LaunchScreen.storyboard */; };
+		B4AEDA3E2689D58600D984AA /* hozier_take_me_to_church_mp3_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B4AEDA3D2689D58600D984AA /* hozier_take_me_to_church_mp3_1.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B4AEDA322689D51F00D984AA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B4AEDA352689D51F00D984AA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B4AEDA372689D51F00D984AA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B4AEDA3D2689D58600D984AA /* hozier_take_me_to_church_mp3_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = hozier_take_me_to_church_mp3_1.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		B4AEDA282689D51C00D984AA /* MusicRecognizer */ = {
 			isa = PBXGroup;
 			children = (
+				B4AEDA3D2689D58600D984AA /* hozier_take_me_to_church_mp3_1.mp3 */,
 				B4AEDA292689D51C00D984AA /* AppDelegate.swift */,
 				B4AEDA2B2689D51C00D984AA /* SceneDelegate.swift */,
 				B4AEDA2D2689D51C00D984AA /* ViewController.swift */,
@@ -128,6 +131,7 @@
 				B4AEDA362689D51F00D984AA /* LaunchScreen.storyboard in Resources */,
 				B4AEDA332689D51F00D984AA /* Assets.xcassets in Resources */,
 				B4AEDA312689D51C00D984AA /* Main.storyboard in Resources */,
+				B4AEDA3E2689D58600D984AA /* hozier_take_me_to_church_mp3_1.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
